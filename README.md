@@ -35,6 +35,13 @@ to correctly classify if a transaction is fraud or not.
 
 #### Insight
 
+![image](https://user-images.githubusercontent.com/35174083/55663518-f1ac2580-57ec-11e9-8b45-4156862d341d.png)
+
+![image](https://user-images.githubusercontent.com/35174083/55663527-17d1c580-57ed-11e9-97ef-a8351767ad53.png)
+
+![image](https://user-images.githubusercontent.com/35174083/55663534-320ba380-57ed-11e9-808c-632f97aa6440.png)
+
+
 
 #### Conclusion
 From the above plots we can determine the factors leading to fradulent transactions and we can also see the gradual increase in accuracy for the supervised learning models.
