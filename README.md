@@ -1,8 +1,8 @@
 # Credit-Card-Fraud-Detection
 
-![Apple-Card-physical-12x7](https://user-images.githubusercontent.com/35174083/55662207-76904280-57df-11e9-90c4-a95fdec96ec1.jpg)
+![Apple-Card-physical-1280x720](https://user-images.githubusercontent.com/35174083/55663491-83fff980-57ec-11e9-8d30-eb529806c16d.jpg)
 
-### Credit Card Fraud:
+## Credit Card Fraud:
 Recently Apple launched a credit card, in partnership with MasterCard and Goldman-Sachs, which has absolutely no numbers. But in reality the credit cards offered by various banks like Bank of America, Santander, American Express among others have various numbers for various reasons on them. These numbers make it vulnerable to fraudulent activities. This analysis is of most importance to every human who carries a credit card. This analysis is also important to organizations which provide credit cards. Additionally, this analysis caters to all those who work hard to earn money and pay the credit card bills.
 
 ## Data
