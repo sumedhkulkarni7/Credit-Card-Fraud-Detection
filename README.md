@@ -13,10 +13,10 @@ Tha dataset is available on kaggle as a part of a competition. The dataset can b
 
 ### Technique 1: Analysis using Machine Learning Techniques
 
-#### Objective
+### Objective
 To predict the fradulent transactions using Machine Learning techniques.
 
-#### Approach
+### Approach
 Using:
 ##### Supervised Machine Learning Techniques:
 1. Logistic Regression
@@ -27,13 +27,14 @@ Using:
 2. Isolation Forest Algorithm
 to correctly classify if a transaction is fraud or not.
 
-#### Steps
+### Steps
 1. Read the dataset using Pandas.
 2. Perform EDA on the dataframe and visualizations to extract information.
 3. Deploy Machine Learning algorithms on the pre-processed dataset.
 4. Plot the accuracy metrics for the classifier.
 
 ### Insight
+#### Here are the images for model performance:
 
 ![image](https://user-images.githubusercontent.com/35174083/55663518-f1ac2580-57ec-11e9-8b45-4156862d341d.png)
 
