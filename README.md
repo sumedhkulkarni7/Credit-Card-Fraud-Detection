@@ -33,7 +33,7 @@ to correctly classify if a transaction is fraud or not.
 3. Deploy Machine Learning algorithms on the pre-processed dataset.
 4. Plot the accuracy metrics for the classifier.
 
-#### Insight
+### Insight
 
 ![image](https://user-images.githubusercontent.com/35174083/55663518-f1ac2580-57ec-11e9-8b45-4156862d341d.png)
 
@@ -43,7 +43,7 @@ to correctly classify if a transaction is fraud or not.
 
 
 
-#### Conclusion
+### Conclusion
 From the above plots we can determine the factors leading to fradulent transactions and we can also see the gradual increase in accuracy for the supervised learning models.
 
 ### Technique 2: Analysis using Deep Learning Techniques
