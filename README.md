@@ -11,7 +11,7 @@ Tha dataset is available on kaggle as a part of a competition. The dataset can b
 
 ## Analysis Performed:
 
-### Technique 1: Analysis using Machine Learning Techniques
+## Technique 1: Analysis using Machine Learning Techniques
 
 ### Objective
 To predict the fradulent transactions using Machine Learning techniques.
@@ -22,10 +22,17 @@ Using:
 1. Logistic Regression
 2. Classification Trees
 3. Naive Bayes Classifier 
+
+![Machine-Learning-Explained1](https://user-images.githubusercontent.com/35174083/55663565-c544d900-57ed-11e9-81b0-8ed498393b0d.png)
+
+
 ##### Unsupervised Machine Learning Techniques:
 1. Local Outlier Factor (LOF)
 2. Isolation Forest Algorithm
 to correctly classify if a transaction is fraud or not.
+
+![image](https://user-images.githubusercontent.com/35174083/55663578-e9a0b580-57ed-11e9-9d83-026f85738a60.png)
+
 
 ### Steps
 1. Read the dataset using Pandas.
@@ -47,7 +54,7 @@ to correctly classify if a transaction is fraud or not.
 ### Conclusion
 From the above plots we can determine the factors leading to fradulent transactions and we can also see the gradual increase in accuracy for the supervised learning models.
 
-### Technique 2: Analysis using Deep Learning Techniques
+## Technique 2: Analysis using Deep Learning Techniques
 
 #### Objective
 To predict the fradulent transactions using Deep Learning techniques. Deep Learning techniques involve neural networks and it's different types. We will use these to obtain higher accuracies than Machine Learning approach.
