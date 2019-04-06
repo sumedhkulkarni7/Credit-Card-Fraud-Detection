@@ -28,25 +28,42 @@ Using:
 to correctly classify if a transaction is fraud or not.
 
 #### Steps
-
+1. Read the dataset using Pandas.
+2. Perform EDA on the dataframe and visualizations to extract information.
+3. Deploy Machine Learning algorithms on the pre-processed dataset.
+4. Plot the accuracy metrics for the classifier.
 
 #### Insight
 
 
 #### Conclusion
+From the above plots we can determine the factors leading to fradulent transactions and we can also see the gradual increase in accuracy for the supervised learning models.
 
+### Technique 2: Analysis using Deep Learning Techniques
 
+#### Objective
+To predict the fradulent transactions using Deep Learning techniques. Deep Learning techniques involve neural networks and it's different types. We will use these to obtain higher accuracies than Machine Learning approach.
 
-In this project, we will be using Machine Learning and Deep Learning Techniques to detect Fraud. We will be using: 
-
-
-
-Deep Learning Techniques to detect fraudulent activities will aldo be used. They are:
-
-# Supervised Deep Learning Techniques:
+#### Approach
+Using:
+##### Supervised Deep Learning Techniques:
 1. Artificial Neural Network
 
-# Unsupervised Deep Learning Techniques:
+##### Unsupervised Deep Learning Techniques:
 1. Self Organizing Maps
+to correctly classify if a transaction is fraud or not.
 
 There is a hybrid Deep Learning model which is a combination of the Self Organizing maps and artificial neural network 
+
+#### Steps
+1. Read the dataset using Pandas.
+2. Perform EDA on the dataframe and visualizations to extract information.
+3. Deploy the Deep Learning algorithms on the pre-processed dataset.
+4. Plot the accuracy metrics for the classifier.
+
+#### Insight
+
+
+#### Conclusion
+From the above plots we can determine the factors leading to fradulent transactions and we can also see the gradual increase in accuracy for the supervised learning models.
+
